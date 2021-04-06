@@ -1,5 +1,5 @@
-# hackvento-19-submission-friday
-hackvento-19-submission-friday created by GitHub Classroom
+# DarkVision
+hackvento-19-submission-friday created by GitHub Classroom. Stood as first runner up in this Hackathon.
 
 # About The Project:  
 ## It is a Django Based End-to-End application which denoises the low photon images (short exposure images).
